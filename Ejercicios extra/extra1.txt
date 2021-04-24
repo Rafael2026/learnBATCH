@@ -1,0 +1,17 @@
+Desarrolla un fichero por lotes que implemente el uso de una agenda telefónica.
+Al ejecutar mostrará un menu
+
+a) Listar telefonos
+b) Añadir un telefono
+c) Buscar Persona
+d) Buscar telefono
+e) Borrar telefono
+f) Vaciar agenda
+g) salir
+
+El formato de la agenda será el siguiente:
+
+Luis Garcia 952345435
+Antonio Lopex 954324562
+
+Toda la información se almacenará en un fichero llamado agenda.txt
