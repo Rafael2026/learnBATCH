@@ -1,5 +1,5 @@
 Desarrolla un fichero por lotes que implemente el uso de una agenda telefónica.
-Al ejecutar mostrará un mení
+Al ejecutar mostrará un menu
 
 a) Listar telefonos
 b) Añadir un telefono
