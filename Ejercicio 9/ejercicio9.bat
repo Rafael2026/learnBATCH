@@ -1,7 +1,7 @@
 @echo off
 
 IF "%1" == "" (
-  echo No has pasado nigún fichero como parámetro
+  echo No has pasado ningun fichero como parametro
 )
 
 ELSE (

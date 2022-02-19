@@ -1,3 +1,0 @@
-git add . --all
-git commit -m "actualizacion"
-git push --set-upstream origin main

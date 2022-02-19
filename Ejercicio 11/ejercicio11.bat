@@ -1,9 +1,9 @@
 @echo off
 
-IF NOT "%1" == "" (
+IF NOT EXIST "%1" == "" (
 
-  IF NOT "%2" == "" (
-    copy %1 %2
+  IF NOT EXIST "%2" == "" (
+    copy %1, %2
   )
 
   ELSE (
